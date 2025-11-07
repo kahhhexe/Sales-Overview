@@ -43,7 +43,7 @@ Analisar as **vendas por região e cidade**, explorando diferentes níveis de de
 Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.
 
 <p align="center">
-  <img src="imagens/powerquery.png" alt="Etapa Power Query" width="700"/>
+  <img src="Imagens/Power Query.png" alt="Etapa Power Query" width="700"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.
 Construção das principais medidas de desempenho e KPIs.
 
 <p align="center">
-  <img src="imagens/dax.png" alt="Etapa DAX" width="700"/>
+  <img src="Imagens/Dax.png" alt="Etapa DAX" width="700"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ Construção das principais medidas de desempenho e KPIs.
 Resumo executivo com KPIs e visão geral das vendas.
 
 <p align="center">
-  <img src="imagens/pagina_inicial.png" alt="Página Inicial" width="700"/>
+  <img src="Imagens/Página inicial.png" alt="Página Inicial" width="700"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Resumo executivo com KPIs e visão geral das vendas.
 Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos.
 
 <p align="center">
-  <img src="imagens/tool_tip.png" alt="Tool Tip" width="700"/>
+  <img src="Imagens/Tool Tip.png" alt="Tool Tip" width="700"/>
 </p>
 
 ---
@@ -79,7 +79,11 @@ Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos.
 Permite navegar entre páginas e explorar informações por cidade, região e Business Line.
 
 <p align="center">
-  <img src="imagens/drill_through.png" alt="Drill-through" width="700"/>
+  <img src="Imagens/Drill-through.png" alt="Drill-through" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/Drill-through in.png" alt="Drill-through" width="700"/>
 </p>
 
 ---
@@ -88,7 +92,15 @@ Permite navegar entre páginas e explorar informações por cidade, região e Bu
 Filtros interativos que permitem refinar as análises conforme região, produto ou período.
 
 <p align="center">
-  <img src="imagens/filtros.png" alt="Filtros e Segmentações" width="700"/>
+  <img src="Imagens/Filtro-in.png" alt="Filtros e Segmentações" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/Filtro-out.png" alt="Filtros e Segmentações" width="700"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/Filtro.png" alt="Filtros e Segmentações" width="700"/>
 </p>
 
 ## 🔗 Acesso ao Dashboard Online
