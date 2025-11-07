@@ -91,11 +91,6 @@ Filtros interativos que permitem refinar as análises conforme região, produto 
   <img src="imagens/filtros.png" alt="Filtros e Segmentações" width="700"/>
 </p>
 
----
-
-
----
-
 ## 🔗 Acesso ao Dashboard Online
 Você pode visualizar o relatório completo no Power BI Service:  
 👉 [**Acessar Dashboard Interativo**](https://app.powerbi.com/view?r=eyJrIjoiYjI5Y2E4Y2MtNzkwMy00YjFiLWFmYTYtOGFlYjZlM2E4YmM2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
