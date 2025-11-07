@@ -1,7 +1,7 @@
 # 📊 Projeto Power BI – Sales Overview
 
 <p align="center">
-  <img src="imagens/Página inicial.png.png" alt="Página Inicial do Dashboard" width="700"/>
+  <img src="Imagens/Página inicial.png" alt="Página Inicial do Dashboard" width="700"/>
 </p>
 
 ---
