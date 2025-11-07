@@ -1,22 +1,81 @@
-# 📊 Projeto Power BI – Vendas Globais
+# 📊 Projeto Power BI – Análise de Vendas Globais
 
-## 🧠 Sobre o projeto
-Este dashboard foi desenvolvido no Power BI para analisar o desempenho de vendas globais, com foco em receita, lucro e regiões de maior impacto.
+<p align="center">
+  <img src="imagens/pagina_inicial.png" alt="Capa do Dashboard" width="700"/>
+</p>
 
-## 🚀 Recursos usados
-- Power BI Desktop
-- Power Query (ETL)
-- DAX para medidas e KPIs
-- Excel (fonte de dados)
+---
 
-## 📈 Visualizações
-![Dashboard Preview](imagens/preview_dashboard.png)
+## 🧠 Sobre o Projeto
+Este projeto foi desenvolvido no **Power BI** com o objetivo de analisar o desempenho de vendas em diferentes regiões, produtos e períodos, permitindo identificar tendências, oportunidades e gargalos de negócio.
 
-## 📂 Estrutura do repositório
-- `dashboard.pbix`: Arquivo principal do Power BI
-- `dados/`: Base de dados utilizada
-- `scripts/`: Transformações e consultas
-- `imagens/`: Capturas de tela do dashboard
+O dashboard foi construído com base em dados de vendas fictícios, passando por todas as etapas do processo de **análise de dados** — desde a **extração e transformação (ETL)** até a **criação de KPIs e visualizações interativas**.
 
-## 🔗 Publicação
-[Veja o dashboard publicado no Power BI Service](https://app.powerbi.com/view?r=XXXXXXXX)
+---
+
+## 🛠️ Tecnologias Utilizadas
+- 🟡 **Power BI Desktop**
+- 🧩 **Power Query** (para limpeza e modelagem dos dados)
+- 🔢 **DAX (Data Analysis Expressions)** para criação de medidas e KPIs
+- 📈 **Power BI Service** (para publicação e compartilhamento)
+- 📊 **Excel / CSV** como fonte de dados
+
+---
+
+## 🧩 Etapas do Projeto
+
+### 1️⃣ **Transformação de Dados – Power Query**
+Tratamento, limpeza e modelagem das tabelas base antes de carregar no modelo.
+
+<p align="center">
+  <img src="imagens/powerquery.png" alt="Etapa Power Query" width="700"/>
+</p>
+
+---
+
+### 2️⃣ **Criação de Medidas – DAX**
+Criação de métricas como receita, lucro, margem e crescimento mensal.
+
+<p align="center">
+  <img src="imagens/dax.png" alt="Etapa DAX" width="700"/>
+</p>
+
+---
+
+### 3️⃣ **Página Inicial do Dashboard**
+Visão geral com KPIs principais e indicadores de performance.
+
+<p align="center">
+  <img src="imagens/pagina_inicial.png" alt="Página Inicial" width="700"/>
+</p>
+
+---
+
+### 4️⃣ **Tool Tip Personalizado**
+Visualização detalhada de informações ao passar o mouse sobre gráficos.
+
+<p align="center">
+  <img src="imagens/tool_tip.png" alt="Tool Tip" width="700"/>
+</p>
+
+---
+
+### 5️⃣ **Drill-through**
+Navegação entre páginas com foco em produtos, regiões ou clientes específicos.
+
+<p align="center">
+  <img src="imagens/drill_through.png" alt="Drill-through" width="700"/>
+</p>
+
+---
+
+### 6️⃣ **Filtros e Segmentações**
+Filtros dinâmicos para refinar as análises por período, região e categoria.
+
+<p align="center">
+  <img src="imagens/filtros.png" alt="Filtros e Segmentações" width="700"/>
+</p>
+
+---
+
+## 📂 Estrutura do Repositório
