@@ -3,7 +3,7 @@
 ---
 
 ## 🧠 Sobre o Projeto
-O **Sales Overview** é um dashboard desenvolvido em **Power BI** com o objetivo de analisar o desempenho de vendas por **região e cidade**, levando em conta coordenadas de **latitude e longitude** e segmentações por **Business Line**, como **aditivos e lubrificantes**.
+O **Sales Overview** é um dashboard desenvolvido em **Power BI** com o objetivo de analisar o desempenho de vendas por **região e planta**, levando em conta coordenadas de **latitude e longitude** e segmentações por **Business Line**, como **aditivos e lubrificantes**.
 
 O projeto consolida dados de vendas e custos, oferecendo uma visão estratégica sobre a performance comercial, permitindo identificar **tendências regionais**, **margens de lucro** e **oportunidades de otimização**.
 
@@ -14,14 +14,14 @@ O projeto consolida dados de vendas e custos, oferecendo uma visão estratégica
 ---
 
 ## 🚀 Objetivo Principal
-Analisar as **vendas por região e cidade**, explorando diferentes níveis de detalhe e interatividade, como **tooltips**, **drill-throughs** e **filtros dinâmicos** para facilitar insights sobre o negócio.
+Analisar as **vendas por região e planta**, explorando diferentes níveis de detalhe e interatividade, como **tooltips**, **drill-throughs** e **filtros dinâmicos** para facilitar insights sobre o negócio.
 
 ---
 
 ## 📈 Principais Métricas e KPIs
 - 💰 **Receita Total**
 - 📉 **Custo Total**
-- 📊 **Lucro Percentual**
+- 📊 **Lucro (%)**
 - 💹 **Margem (%)**
 - 🔢 **Vendas Mensais**
 - 🧾 **Análise de Margem e Rentabilidade por Linha de Negócio**
