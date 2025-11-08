@@ -89,7 +89,7 @@ Permite navegar para outra página que contem informações detalhadas de cada v
 ---
 
 ### 6️⃣ **Filtros e Segmentações**
-Filtros interativos que permitem refinar as análises conforme o segmento, divisão, planta e período(Quartil, Ano e Mês).
+Filtros interativos que permitem refinar as análises conforme o segmento, divisão, planta e período (Quartil, Ano e Mês).
 
 <p align="center">
   <img src="Imagens/Filtro-in.png" alt="Filtros e Segmentações" width="700"/>
