@@ -121,9 +121,9 @@ Você pode visualizar o relatório completo no Power BI Service:
 ---
 
 ## 💡 Principais Insights
-- 🌎 A região com maior receita é o **Sul**, concentrando mais de 40% do total.  
-- 🏙️ As cidades com melhor performance apresentam maior margem percentual.  
-- ⚙️ **Lubrificantes** têm margem superior à de **aditivos** em quase todas as regiões.  
+- 🌎 A região com maior receita é o **Centroeste/Sudeste**.
+- 🏙️ A planta com maior receita é **Sorocaba**.  
+- ⚙️ **Lubrificantes** têm margem superior à de **aditivos** em todas as regiões.  
 - 📆 A receita apresentou **crescimento consistente mês a mês**, indicando boa tendência de mercado.
 
 ---
@@ -132,8 +132,8 @@ Você pode visualizar o relatório completo no Power BI Service:
 Durante o desenvolvimento deste projeto, aprimorei habilidades importantes, como:
 
 - 🔄 **Modelagem de Dados** no Power BI utilizando o conceito de **esquema estrela**.  
-- 🧹 **Limpeza e padronização de dados** com Power Query.  
-- ⚙️ **Criação de medidas DAX** aplicando funções como `CALCULATE`, `DIVIDE`, `SUMX`, e `FILTER`.  
+- 🧹 **Padronização de dados** com Power Query.  
+- ⚙️ **Criação de medidas DAX** aplicando funções como `DIVIDE` e `SUM` .
 - 📊 **Criação de dashboards interativos** e dinâmicos com recursos avançados (Drill-through, Tooltip e filtros personalizados).  
 - 📈 **Publicação e compartilhamento** do relatório no Power BI Service.  
 - 🧠 **Interpretação de KPIs** e geração de insights estratégicos a partir dos dados.
