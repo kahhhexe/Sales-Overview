@@ -41,7 +41,7 @@ Analisar as **vendas por região e planta**, explorando diferentes níveis de de
 ## 🧩 Etapas do Projeto
 
 ### 1️⃣ **Transformação de Dados – Power Query**
-Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.  
+Modelagem e tratamento das tabelas antes da carga no modelo.  
 Nesta etapa foi realizada a importação dos dados para o Power BI, seguida da organização e padronização dos tipos de dados (texto, decimal, datas, longitude e latitude) — um processo essencial antes de iniciarmos a construção dos gráficos.
 
 <p align="center">
