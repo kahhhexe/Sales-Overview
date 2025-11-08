@@ -40,7 +40,7 @@ Analisar as **vendas por região e planta**, explorando diferentes níveis de de
 ## 🧩 Etapas do Projeto
 
 ### 1️⃣ **Transformação de Dados – Power Query**
-Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.
+Modelagem, tratamento e limpeza das tabelas antes da carga no modelo. Aqui foi realizado a importação dos dados para o power bi seguido da organização e padronização dos tipos de dados (texto, decimal, datas, longitudo e latitude), um processo muito importante antes de iniciarmos a contrução dos nosso gráficos.
 
 <p align="center">
   <img src="Imagens/Power Query.png" alt="Etapa Power Query" width="700"/>
@@ -49,7 +49,7 @@ Modelagem, tratamento e limpeza das tabelas antes da carga no modelo.
 ---
 
 ### 2️⃣ **Criação de Medidas – DAX**
-Construção das principais medidas de desempenho e KPIs.
+Construção das principais medidas de desempenho e KPIs. Nesse projeto, algumas medidas foram criadas utilizando DAX para que possamos obter os resultados de custo, custo percentual, margem, margem percentual, total de vendas e volume de vendas em tonelada.
 
 <p align="center">
   <img src="Imagens/Dax.png" alt="Etapa DAX" width="700"/>
@@ -58,7 +58,7 @@ Construção das principais medidas de desempenho e KPIs.
 ---
 
 ### 3️⃣ **Página Inicial do Dashboard**
-Resumo executivo com KPIs e visão geral das vendas.
+Resumo executivo com KPIs e visão geral das vendas. Apos a modelagem dos dados utilizando o power query e a contrução das principais medidas em DAX, podemos iniciar a contrução do nosso Dashboard.
 
 <p align="center">
   <img src="Imagens/Página inicial.png" alt="Página Inicial" width="700"/>
@@ -67,7 +67,7 @@ Resumo executivo com KPIs e visão geral das vendas.
 ---
 
 ### 4️⃣ **Tool Tip Personalizado**
-Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos.
+Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos. Foi utilizado essa ferramente do power bi que é muito útil quando precisamos ver informações de forma rápida só passando o mouse em cima de cada bloco de informação, isso ajuda o gestor a responder perguntas chaves sem precisar navegar entre páginas.
 
 <p align="center">
   <img src="Imagens/Tool Tip.png" alt="Tool Tip" width="700"/>
@@ -76,7 +76,7 @@ Exibe detalhes dinâmicos ao passar o mouse sobre os gráficos.
 ---
 
 ### 5️⃣ **Drill-through**
-Permite navegar entre páginas e explorar informações por cidade, região e Business Line.
+Permite navegar para outra página que contem informações detalhadas de cada venda, é uma ferramente muito útil quando é necessário consultar dados detalhados de um segmento expecífico.
 
 <p align="center">
   <img src="Imagens/Drill-through.png" alt="Drill-through" width="700"/>
@@ -89,7 +89,7 @@ Permite navegar entre páginas e explorar informações por cidade, região e Bu
 ---
 
 ### 6️⃣ **Filtros e Segmentações**
-Filtros interativos que permitem refinar as análises conforme região, produto ou período.
+Filtros interativos que permitem refinar as análises conforme o segmento, divisão, planta e período(Quartil, Ano e Mês).
 
 <p align="center">
   <img src="Imagens/Filtro-in.png" alt="Filtros e Segmentações" width="700"/>
